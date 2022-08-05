@@ -24,6 +24,7 @@ public class isPrime1to20 {
             if (check) {
                 System.out.println(n);
                 cout++;
+
             }
             n++;
         }
